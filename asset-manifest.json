@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Food-Website/static/css/main.afd7172b.chunk.css",
+    "main.js": "/Food-Website/static/js/main.c039ccb3.chunk.js",
+    "main.js.map": "/Food-Website/static/js/main.c039ccb3.chunk.js.map",
+    "runtime-main.js": "/Food-Website/static/js/runtime-main.eb8c6c48.js",
+    "runtime-main.js.map": "/Food-Website/static/js/runtime-main.eb8c6c48.js.map",
+    "static/js/2.b0e9a362.chunk.js": "/Food-Website/static/js/2.b0e9a362.chunk.js",
+    "static/js/2.b0e9a362.chunk.js.map": "/Food-Website/static/js/2.b0e9a362.chunk.js.map",
+    "index.html": "/Food-Website/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/Food-Website/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.b0e9a362.chunk.js.LICENSE.txt": "/Food-Website/static/js/2.b0e9a362.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/Food-Website/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/Food-Website/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/Food-Website/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/Food-Website/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/Food-Website/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/Food-Website/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/Food-Website/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/Food-Website/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb8c6c48.js",
+    "static/js/2.b0e9a362.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.c039ccb3.chunk.js"
+  ]
+}
